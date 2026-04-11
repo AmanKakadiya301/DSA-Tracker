@@ -29,7 +29,7 @@ This is an interactive DSA (Data Structures and Algorithms) tracker modeled afte
 
 ## 🔗 Live Demo
 Check out the application deployed live via GitHub Pages:  
-**🚀 [https://AmanKakadiya301.github.io/DSA-Tracker/](https://AmanKakadiya301.github.io/DSA-Tracker/)**
+**🚀 [Live Demo](https://fantasy-dsa-roadmap.vercel.app/)**
 
 ## 🛠 Tech Stack
 
